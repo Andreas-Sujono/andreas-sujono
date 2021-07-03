@@ -42,7 +42,8 @@ As a software engineer, I love to solve real problem by making things that chang
   <b><em>Overall GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreas-sujono" alt="GitHub Stats" /> <br/><br/>
   <b><em>My Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=andreas-sujono" alt="WakaTime" />
+    <!--START_SECTION:waka-->
+    <!--END_SECTION:waka-->
   </p>
  
 </div>
