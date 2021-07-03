@@ -44,7 +44,7 @@ As a software engineer, I love to solve real problem by making things that chang
   <b><em>My Programming activity (Last 7 days):</em></b> <br/>
       </p>
 
-    <!--START_SECTION:waka-->
+<!--START_SECTION:waka-->
 ```text
 JSX          12 mins         ███████████▓░░░░░░░░░░░░░   46.49 % 
 TypeScript   6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
