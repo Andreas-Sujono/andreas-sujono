@@ -43,7 +43,13 @@ As a software engineer, I love to solve real problem by making things that chang
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreas-sujono" alt="GitHub Stats" /> <br/><br/>
   <b><em>My Programming activity (Last 7 days):</em></b> <br/>
     <!--START_SECTION:waka-->
-    <!--END_SECTION:waka-->
+```text
+JSX          12 mins         ███████████▓░░░░░░░░░░░░░   46.49 % 
+TypeScript   6 mins          ██████░░░░░░░░░░░░░░░░░░░   23.97 % 
+SCSS         5 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.77 % 
+HTML         2 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+```
+<!--END_SECTION:waka-->
   </p>
  
 </div>
