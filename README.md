@@ -46,8 +46,7 @@ As a software engineer, I love to solve real problem by making things that chang
 
 <!--START_SECTION:waka-->
 ```text
-JSX          1 hr            ██████████████████████▒░░   89.46 % 
-JavaScript   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
  
