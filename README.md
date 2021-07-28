@@ -46,7 +46,9 @@ As a software engineer, I love to solve real problem by making things that chang
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   46 mins         ██████████████▒░░░░░░░░░░   57.70 % 
+JSX          31 mins         █████████▓░░░░░░░░░░░░░░░   39.06 % 
+SCSS         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 ```
 <!--END_SECTION:waka-->
  
