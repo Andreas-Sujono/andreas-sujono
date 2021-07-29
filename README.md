@@ -46,9 +46,9 @@ As a software engineer, I love to solve real problem by making things that chang
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   46 mins         ██████████████▒░░░░░░░░░░   57.70 % 
-JSX          31 mins         █████████▓░░░░░░░░░░░░░░░   39.06 % 
-SCSS         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+JavaScript   46 mins         ████████████▒░░░░░░░░░░░░   49.73 % 
+JSX          44 mins         ████████████░░░░░░░░░░░░░   47.47 % 
+SCSS         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 ```
 <!--END_SECTION:waka-->
  
