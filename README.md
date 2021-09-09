@@ -46,11 +46,11 @@ As a software engineer, I love to solve real problem by making things that chang
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   13 hrs 36 mins  ████████████████████░░░░░   79.57 % 
-JSX          2 hrs 14 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-JSON         34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
-CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
-JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
+TypeScript   9 hrs 38 mins   ██████████████████▓░░░░░░   74.64 % 
+JSX          2 hrs 14 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.39 % 
+JSON         33 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+CSS          14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Git Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 ```
 <!--END_SECTION:waka-->
  
