@@ -2,7 +2,7 @@
 <!-- <h2 align='center'>Andreas Sujono</h2>
 <p align='center'><b>Student at Nanyang Technological University</b></p> -->
 
-<h2>Hi there! I am Andreas Sujono <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2>Hi there! I am Andreas Sujono <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" style="25px !important;" height="25px"></h2>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/andreassujono)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://andreassujono.com)
@@ -21,10 +21,11 @@ As a software engineer, I love to solve real problem by making things that chang
 
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently studying at Nanyang Technological University (NTU);
-- 🚀 I’m currently learning Data Structures and Algorithms on leetcode;
-- 💬 Ask me about anything, I am happy to help;
+- 👨🏻‍💻 I’m a graduate from Nanyang Technological University (NTU)
+- 👨🏻‍💻 I’m an enthusiast frontend engineer with specialization in ReactJs, Redux, and React native
+- 🚀 I’m currently learning blockchain and web3
 - 📝 I regulary write articles on [medium](https://andreassujono.medium.com);
+- 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: andr0075@e.ntu.edu.sg;
 - 📝 [Resume](https://andreassujono.com/static/media/Andreas_Resume.9bd97b03.pdf).
 
