@@ -26,8 +26,7 @@ As a software engineer, I love to solve real problem by making things that chang
 - 🚀 I’m currently learning blockchain and web3
 - 📝 I regulary write articles on [medium](https://andreassujono.medium.com);
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: andr0075@e.ntu.edu.sg;
-- 📝 [Resume](https://andreassujono.com/static/media/Andreas_Resume.9bd97b03.pdf).
+- 📫 How to reach me: andreassujono@gmail.com;
 
 
 <h2>👀 Stats</h2>
